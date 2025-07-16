@@ -1,0 +1,15 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Transparent space -->
+    <item android:top="8dp" android:bottom="8dp">
+        <shape>
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+    <!-- Actual line -->
+    <item android:top="8dp" android:bottom="8dp">
+        <shape>
+            <size android:height="1dp" />
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+</layer-list>

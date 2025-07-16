@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Modern color scheme -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#81C784</color>
+    <color name="accent">#FFC107</color>
+    <color name="accent_dark">#FFA000</color>
+    <color name="accent_light">#FFECB3</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    
+    <!-- Background colors -->
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+    
+    <!-- Dark mode colors -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_text_primary">#FFFFFF</color>
+    <color name="dark_text_secondary">#B3FFFFFF</color>
+    <color name="dark_text_hint">#80FFFFFF</color>
+    
+    <!-- Common colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="red">#F44336</color>
+    
+    <!-- Brand Colors -->
+    <color name="primary_green">#4CAF50</color>
+    <color name="primary_dark_green">#1B5E20</color>
+    <color name="primary_light_green">#81C784</color>
+    <color name="secondary_green">#4CAF50</color>
+    <color name="secondary_dark_green">#388E3C</color>
+    <color name="accent_green">#69F0AE</color>
+    
+    <!-- Status Colors -->
+    <color name="yellow">#FFC107</color>
+    <color name="online_green">#FF43A047</color>
+    <color name="offline_red">#FFE53935</color>
+    
+    <!-- Light Theme Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="surface_light" tools:ignore="MissingDefaultResource">#FFFFFF</color>
+    <color name="card_light">#FFFFFF</color>
+    <color name="text_primary_light">#DE000000</color>
+    <color name="text_secondary_light">#99000000</color>
+    <color name="divider_light">#1F000000</color>
+    
+    <!-- Common Colors -->
+    <color name="ripple">#33000000</color>
+    <color name="scrim">#52000000</color>
+    
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>

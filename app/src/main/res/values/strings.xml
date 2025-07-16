@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IUIU Trash</string>
+    <string name="nav_header_title">IUIU Trash</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="slider_image_description">Slider Image</string>
+    <!-- Navigation Header Strings -->
+    <string name="app_logo_description">IUIU Trash App Logo</string>
+    <string name="profile_picture_description">User Profile Picture</string>
+    <string name="settings_button_description">Open Settings</string>
+    <string name="welcome_message">Welcome to Smart Waste Management</string>
+    <string name="app_name_full">IUIU Trash</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

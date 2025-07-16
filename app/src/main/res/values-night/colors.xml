@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors -->
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="card_dark">#2D2D2D</color>
+    <color name="text_primary_dark">#DEFFFFFF</color>
+    <color name="text_secondary_dark">#99FFFFFF</color>
+    <color name="divider_dark">#1FFFFFFF</color>
+
+    <!-- Status Colors for Dark Theme -->
+    <color name="red">#FF5252</color>
+    <color name="yellow">#FFD740</color>
+    <color name="online_green">#69F0AE</color>
+    <color name="offline_red">#FF5252</color>
+
+    <!-- Override Light Theme Colors -->
+    <color name="background_light">@color/background_dark</color>
+    <color name="surface_light">@color/surface_dark</color>
+    <color name="card_light">@color/card_dark</color>
+    <color name="text_primary_light">@color/text_primary_dark</color>
+    <color name="text_secondary_light">@color/text_secondary_dark</color>
+    <color name="divider_light">@color/divider_dark</color>
+
+    <!-- Common Colors -->
+    <color name="ripple">#33FFFFFF</color>
+    <color name="scrim">#52FFFFFF</color>
+</resources> 

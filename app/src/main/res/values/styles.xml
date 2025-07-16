@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.MaterialComponents.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextAppearance.MaterialComponents.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+<!--    <style name="CustomAlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">-->
+<!--        <item name="android:windowBackground">@color/white</item>-->
+<!--        <item name="android:textColorPrimary">@color/black</item>-->
+<!--        &lt;!&ndash; Add other customizations as needed &ndash;&gt;-->
+<!--    </style>-->
+
+
+<!--    <style name="CustomAlertDialogTheme" parent="Theme.MaterialComponents.Light.Dialog.Alert">-->
+<!--        &lt;!&ndash; Set the dialog's background color &ndash;&gt;-->
+<!--        <item name="android:windowBackground">@color/white</item>-->
+
+<!--        &lt;!&ndash; Customize the positive button style &ndash;&gt;-->
+<!--        <item name="buttonBarPositiveButtonStyle">@style/CustomAlertDialogButton</item>-->
+
+<!--        &lt;!&ndash; Customize the negative button style &ndash;&gt;-->
+<!--        <item name="buttonBarNegativeButtonStyle">@style/CustomAlertDialogButton</item>-->
+
+<!--        &lt;!&ndash; Customize the neutral button style &ndash;&gt;-->
+<!--        <item name="buttonBarNeutralButtonStyle">@style/CustomAlertDialogButton</item>-->
+<!--    </style>-->
+
+    <!-- Define the button style -->
+    <style name="CustomAlertDialogButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:backgroundTint">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="CustomAlertDialogTheme" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <!-- Set the dialog's background color -->
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Set the accent color to green, which affects button text color -->
+        <item name="colorAccent">@color/primary</item>
+
+        <!-- Optional: Customize title and message text colors -->
+        <item name="android:textColorPrimary">@color/primary</item>
+        <item name="android:textColorSecondary">@color/primary</item>
+    </style>
+</resources> 
